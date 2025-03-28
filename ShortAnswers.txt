@@ -1,25 +1,32 @@
-Q1:
+Q1:Excerpt from Moby Dick by Herman Melville: "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world."
+
+
+Excerpt from The Catcher in the Rye by J.D. Salinger: "I’m the most terrific liar you ever saw in your life. It’s awful. If I’m on my way to the store to buy a magazine, I don’t just tell you I’m going to buy a magazine, I tell you I’m going to buy a magazine and a new pair of socks, and I don’t even need socks."
 
 
 
 
 Q2:
-
+Imagine the app attempts to translate legal jargon, such as the following: "The defendant must present evidence to counter the claim beyond a reasonable doubt. If the evidence is insufficient, the presumption of innocence will prevail."
 
 
 
 Q3:
+Including specialized texts like legal or medical language can improve the accuracy of translations or text analysis for professionals in those fields. This would benefit legal translators, doctors, and researchers by providing more reliable outputs for specific tasks, increasing efficiency and reducing errors in highly specialized areas.
+
 
 
 
 
 Q4:
 
+Using limited texts can lead to bias and overfitting, making the system less capable of handling general or colloquial language. This could disadvantage non-experts and result in errors when translating broader content. It also risks excluding diverse social and cultural perspectives, reducing the system’s adaptability.
+
 
 
 
 Q5:
-
+I would use limited texts in a specialized module within a more diverse training dataset. This ensures the program can handle specific tasks while remaining adaptable for general language. Regular updates to the data would help prevent bias and overfitting, balancing specialization with flexibility.
 
 
 
